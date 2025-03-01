@@ -1,1 +1,1 @@
-PRAGMA table_info(course_registration_course);
+PRAGMA table_info(accounts_student);
